@@ -6,7 +6,7 @@ def deal_card
 
 end
 
-def display_card_total(x)
+def display_card_total
 
 end
 
@@ -18,7 +18,7 @@ def get_user_input
 
 end
 
-def end_game(x)
+def end_game
 
 end
 
@@ -27,7 +27,7 @@ def initial_round
 end
 
 
-def hit?(num)
+def hit?(
 
 end
 
