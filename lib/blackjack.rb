@@ -23,7 +23,7 @@ def end_game(x)
 end
 
 def initial_round(x)
-  (rand(1..11))
+  ()
 end
 
 
