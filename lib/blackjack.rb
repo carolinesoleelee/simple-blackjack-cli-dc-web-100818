@@ -22,8 +22,8 @@ def end_game(x)
  puts "Sorry, you hit #{x}. Thanks for playing!"
 end
 
-def initial_round
-
+def initial_round(x)
+  (rand(1..11))
 end
 
 
