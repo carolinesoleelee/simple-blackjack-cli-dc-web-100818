@@ -19,7 +19,7 @@ def get_user_input
 end
 
 def end_game(x)
- puts "Sorry, your card total is #{x}. thank you"
+ puts "Sorry, you hit #{x}. Thanks for playing!"
 end
 
 def initial_round
